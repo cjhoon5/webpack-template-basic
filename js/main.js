@@ -1,2 +1,4 @@
+
 import '../scss/main.scss'
-console.log('test')
+
+console.log('asdfasdf')
